@@ -1,3 +1,3 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+My name is Rafaela Diaz and I am a senior studying CIS at the University of Tulsa :)
